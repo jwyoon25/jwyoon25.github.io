@@ -257,7 +257,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["economics", "policy", "markets"] # highlighted on the blog index; add tags to your posts to match
+display_tags: ["economics", "policy", "markets", "urban economics", "remote work"] # highlighted on the blog index; add tags to your posts to match
 display_categories: [] # add category names here when you use them in posts
 
 # -----------------------------------------------------------------------------
