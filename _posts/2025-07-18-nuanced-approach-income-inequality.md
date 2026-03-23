@@ -40,18 +40,18 @@ Despite the intention to alleviate poverty, it does not. The system is fundament
 
 ## Universal Basic Income vs. Negative Income Tax
 
-Various proposals for Universal Basic Income (UBI) have gained attention in recent years. Although UBI is not a new concept, Andrew Yang’s UBI proposal, termed the “Freedom Dividend” is a notable example. Yang's plan aimed to implement a value-added tax (VAT) to fund a guaranteed annual income of $12,000 for each adult U.S. citizen. According to the Tax Foundation, with approximately 236 million adult citizens in the U.S., Yang’s "Freedom Dividend" would entail an annual cost of about $2.8 trillion. However, it’s important to note that UBI can be seen as a form of negative income tax (NIT) from a different perspective, and when compared, UBI is much more expensive. Rewording Mankiw’s prompt to illustrate, consider the following two hypothetical balanced-budget plans.
+Various proposals for Universal Basic Income (UBI) have gained attention in recent years. Although UBI is not a new concept, Andrew Yang’s UBI proposal, termed the “Freedom Dividend” is a notable example. Yang's plan aimed to implement a value-added tax (VAT) to fund a guaranteed annual income of \$12,000 for each adult U.S. citizen. According to the Tax Foundation, with approximately 236 million adult citizens in the U.S., Yang’s "Freedom Dividend" would entail an annual cost of about \$2.8 trillion. However, it’s important to note that UBI can be seen as a form of negative income tax (NIT) from a different perspective, and when compared, UBI is much more expensive. Rewording Mankiw’s prompt to illustrate, consider the following two hypothetical balanced-budget plans.
 
 Plan:
-1. A universal transfer of $1,000 per month for every person, financed by a 20 percent flat tax on all income.
-2. A negative income tax with an income floor at $12,000 and a 20% phaseout tax rate, with the breakeven point beyond which benefits reach zero, is $60,000.
+1. A universal transfer of \$1,000 per month for every person, financed by a 20 percent flat tax on all income.
+2. A negative income tax with an income floor at \$12,000 and a 20% phaseout tax rate, with the breakeven point beyond which benefits reach zero, is \$60,000.
 
 Although framed differently, these plans are economically equivalent due to the net payment (taxes less transfer), resulting in the same net income for everyone (see Table 2).
 
 **Table 2:** Illustrating Plan 1 and Plan 2
 {% include figure.liquid path="assets/img/posts/income-inequality-nuanced-approach/fig-p04-01.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-Plan 1 mirrors Yang’s proposal in terms of outcome (providing $12,000 annually to every individual), which would cost $2.8 trillion. A UBI that pays everyone 20% of the average income (Plan 1) accounts for about 15.4% of GDP, while an NIT that replicates the identical outcome (Plan 2) costs only 3.8% of the GDP. This reveals a significant disparity in economic efficiency between UBI and NIT despite their conceptual similarity. Therefore, NIT is a more cost-effective approach.
+Plan 1 mirrors Yang’s proposal in terms of outcome (providing \$12,000 annually to every individual), which would cost \$2.8 trillion. A UBI that pays everyone 20% of the average income (Plan 1) accounts for about 15.4% of GDP, while an NIT that replicates the identical outcome (Plan 2) costs only 3.8% of the GDP. This reveals a significant disparity in economic efficiency between UBI and NIT despite their conceptual similarity. Therefore, NIT is a more cost-effective approach.
 
 ## An Economically Effective and Viable Approach
 
