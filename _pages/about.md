@@ -6,10 +6,10 @@ subtitle: Economics, policy, and markets—explained clearly.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false
   more_info: >
-    <p class="mb-1">Student, Northeastern University</p>
+    <p class="mb-1">Combined major in Economics and Mathematics · Northeastern University · Class of 2029</p>
 
 selected_papers: false
 social: true
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3
 ---
 
-I’m **Jayden Yoon**, a student interested in how economics, policy, and global markets connect—in class and in practice.
+I’m **Jayden Yoon**, a freshman (Class of **2029**) at Northeastern University, studying a **combined major in Economics and Mathematics**. I care about how economics, policy, and markets connect—in coursework and beyond.
 
 Economics, for me, is a way to think about **incentives**, **institutions**, and **choices**: what drives markets, and what happens when policy changes the rules.
 
-This blog is where I publish analyses and reflections—mostly shorter pieces that try to make complex ideas easier to follow. If you’d like to get in touch, use the icons below or email me directly.
+This blog is where I publish analyses and reflections—mostly shorter pieces that try to make complex ideas easier to follow. Reach me by **email** or **LinkedIn** below.
