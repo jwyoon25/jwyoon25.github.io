@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Money in Economic Thinking?"
-date: 2025-08-28 12:00:00 -0400
+date: 2025-09-12 12:00:00 -0400
 description: "A concise survey of competing concepts of money in economic thought, spanning material and immaterial views and their policy implications."
 tags: [economics, monetary theory, economic thought]
 ---
