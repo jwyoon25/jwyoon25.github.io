@@ -1,10 +1,9 @@
 window.MathJax = {
   tex: {
     tags: "ams",
-    inlineMath: [
-      ["$", "$"],
-      ["\\(", "\\)"],
-    ],
+    // Use only \( ... \) for inline math so currency like $12,000
+    // is never parsed as MathJax.
+    inlineMath: [["\\(", "\\)"]],
   },
   options: {
     renderActions: {
