@@ -38,13 +38,13 @@ In the U.S. today, many different policies and programs tackle redistribution am
 
 Despite the intention to alleviate poverty, it does not. The system is fundamentally poorly targeted, with a significant portion of the benefits going to non-poor and near-poor citizens, resulting in a leakage of resources that could have been more effectively utilized for those who are truly poor. Moreover, the system often creates disincentives for work and savings for recipients and taxpayers. For instance, the structuring of welfare benefits can discourage recipients from seeking higher income or employment due to the potential loss of benefits, leading to long-term dependency on welfare (a phenomenon known as the welfare trap) and hindering economic mobility. However, and most importantly, despite the significant resources allocated to these programs, income and wealth inequality in the U.S. remains high and continues to rise. Income growth has been rapid for the top 5% of families, further exacerbating this disparity. Between 1962 and 2009, adjusted for both population growth and inflation, although anti-poverty spending increased sixfold, the poverty rate fluctuated and showed little downward trend. Current redistributive policies have been implemented at enormous cost but have not done much to reduce poverty.
 
-## Universal Basic Income v.s. Negative Income Tax
+## Universal Basic Income vs. Negative Income Tax
 
 Various proposals for Universal Basic Income (UBI) have gained attention in recent years. Although UBI is not a new concept, Andrew Yang’s UBI proposal, termed the “Freedom Dividend” is a notable example. Yang's plan aimed to implement a value-added tax (VAT) to fund a guaranteed annual income of $12,000 for each adult U.S. citizen. According to the Tax Foundation, with approximately 236 million adult citizens in the U.S., Yang’s "Freedom Dividend" would entail an annual cost of about $2.8 trillion. However, it’s important to note that UBI can be seen as a form of negative income tax (NIT) from a different perspective, and when compared, UBI is much more expensive. Rewording Mankiw’s prompt to illustrate, consider the following two hypothetical balanced-budget plans.
 
 Plan:
 1. A universal transfer of $1,000 per month for every person, financed by a 20 percent flat tax on all income.
-2. A negative income tax with an income floor at $12000 and a 20% phaseout tax rate, with the breakeven point beyond which benefits reach zero, is $60,000.
+2. A negative income tax with an income floor at $12,000 and a 20% phaseout tax rate, with the breakeven point beyond which benefits reach zero, is $60,000.
 
 Although framed differently, these plans are economically equivalent due to the net payment (taxes less transfer), resulting in the same net income for everyone (see Table 2).
 
