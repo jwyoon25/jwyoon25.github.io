@@ -1,18 +1,18 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: Writing on economics and policy.
+subtitle: Economics, policy, and markets—explained clearly.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Student, Northeastern University</p>
+    <p class="mb-1">Student, Northeastern University</p>
 
-selected_papers: false # set true when you add publications in _bibliography/papers.bib
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
   enabled: false
@@ -22,11 +22,11 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true
-  limit: 5
+  limit: 3
 ---
 
-I am **Jayden Yoon**, a student exploring where economics, policy, and global markets meet—through coursework and real-world projects. I’m drawn to economics as a way to understand how incentives, institutions, and decisions shape outcomes, from financial markets to broader social impact.
+I’m **Jayden Yoon**, a student interested in how economics, policy, and global markets connect—in class and in practice.
 
-This blog is a place for my analyses and reflections. I want to break down complex ideas clearly and develop my own perspective on economic and policy questions.
+Economics, for me, is a way to think about **incentives**, **institutions**, and **choices**: what drives markets, and what happens when policy changes the rules.
 
-If you want to connect, use the icons below or reach me by email.
+This blog is where I publish analyses and reflections—mostly shorter pieces that try to make complex ideas easier to follow. If you’d like to get in touch, use the icons below or email me directly.
