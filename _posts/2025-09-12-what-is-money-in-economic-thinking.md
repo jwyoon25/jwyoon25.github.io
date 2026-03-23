@@ -6,7 +6,7 @@ description: "A concise survey of competing concepts of money in economic though
 tags: [economics, monetary theory, economic thought]
 ---
 
-## 2. What is ‘money’ as a concept in economic thinking?
+## What is ‘money’ in economic thinking?
 
 From cattle, cowrie shells, and deerskin to digital bits and bytes and advanced polymer, the material form of money
 has developed drastically over the last decamillennium. Concurrently, the ontology of money has been subject to

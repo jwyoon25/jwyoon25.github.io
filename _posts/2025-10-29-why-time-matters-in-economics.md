@@ -6,7 +6,7 @@ description: "A concise argument for time as a foundational concept in economics
 tags: [economics, intertemporal choice, macroeconomics]
 ---
 
-## 3. Why and how does time matter in economics?
+## Why and how does time matter in economics?
 
 The fundamental importance of time in economics lies in three ubiquitous truths:
 1. Action and change transpire with the allocation of time.
