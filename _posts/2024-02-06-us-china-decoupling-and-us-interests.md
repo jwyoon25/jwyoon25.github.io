@@ -6,9 +6,6 @@ description: "A paper arguing that U.S.-China economic decoupling would be econo
 tags: [economics, international trade, geopolitics]
 ---
 
-Tensions between the US and China have been steadily increasing. Is it in the US’ interest to
-decouple from China economically?
-
 ## Introduction
 
 The establishment of the People's Republic of China—hereafter, “China”—in 1949 led to a
