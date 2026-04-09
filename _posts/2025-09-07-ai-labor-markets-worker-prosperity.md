@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI, Labor Markets, and Worker Prosperity"
-date: 2025-08-20 12:00:00 -0400
+date: 2025-09-07 12:00:00 -0400
 description: "A labor-market perspective on AI: why long-run job destruction is not inevitable, where short-run adjustment costs emerge, and which policy tools can protect workers while preserving innovation."
 tags: [economics, labor market, ai]
 ---
