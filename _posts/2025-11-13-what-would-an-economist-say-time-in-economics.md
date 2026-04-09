@@ -6,7 +6,7 @@ description: "A companion to an earlier essay on time in economics: Fisher on in
 tags: [economics, intertemporal choice, macroeconomics]
 ---
 
-This post continues the discussion in [Why Time Matters in Economics]({% post_url 2025-10-29-why-time-matters-in-economics %}), drawing on an earlier paper I wrote that asked the same question from the vantage point of several canonical economists. Here the focus is on how they talk about time—not on repeating every theme from the first essay, but on filling in arguments that deserve their own space.
+This post continues the discussion in [Why Time Matters in Economics]({% post_url 2025-10-29-why-time-matters-in-economics %}), drawing on an earlier blog I wrote that asked the same question from the vantage point of several canonical economists. Here the focus is on how they talk about time—not on repeating every theme from the first essay, but on filling in arguments that deserve their own space.
 
 ## Irving Fisher: interest as the bridge across time
 
@@ -38,7 +38,7 @@ Taken together, Fisher, Friedman, and the Austrian account of time preference il
 
 ## Works Cited
 
-Caldwell, Bruce J. “Milton Friedman.” *Encyclopædia Britannica*, December 18, 2023.  
+Caldwell, Bruce J. “Milton Friedman.” *Encyclopædia Britannica*, November 10, 2025.  
 https://www.britannica.com/biography/Milton-Friedman.
 
 Dupor, Bill. “Examining Long and Variable Lags in Monetary Policy.” *Saint Louis Fed Eagle*, June 27, 2023.  
