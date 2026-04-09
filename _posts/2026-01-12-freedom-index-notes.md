@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The freedom index isn't a report card"
+title: "The Freedom Index Isn't a Report Card"
 date: 2026-01-12 12:00:00 -0500
 description: "Quick notes from the latest Economic Freedom of the World report—what it measures, the post-2019 slide, Korea’s spot in the rankings, and why poor people’s incomes matter more than their share of the pie."
 tags: [economics, institutions, economic freedom]
 ---
 
-I skimmed the latest **Economic Freedom of the World** (EFW) report—the Fraser Institute’s annual country rankings with a year or two of lag on the data. It’s dry, but it’s a handy way to stop arguing in circles about “markets vs government” and actually look at **rules**: taxes and spending, courts and property rights, inflation, trade, and red tape.
+I skimmed the latest [**Economic Freedom of the World** (EFW) annual report](https://www.fraserinstitute.org/sites/default/files/2025-09/economic-freedom-of-the-world-2025-annual-report_1.pdf) (PDF)—the Fraser Institute’s country rankings with a year or two of lag on the data. It’s dry, but it’s a handy way to stop arguing in circles about “markets vs government” and actually look at **rules**: taxes and spending, courts and property rights, inflation, trade, and red tape.
 
 The index doesn’t smuggle in “good outcomes.” It scores **how much room people have** to work, save, trade, and start stuff. You can still think some regulation is worth it; the report just measures the freedom side.
 
@@ -18,4 +18,4 @@ The index doesn’t smuggle in “good outcomes.” It scores **how much room pe
 
 Last caveat: it’s **correlation**, not a lab experiment. Treat it as a diagnostic, not a cult leaderboard.
 
-If you’re curious: [efotw.org](https://www.efotw.org/).
+**Source:** [Economic Freedom of the World: 2025 Annual Report (PDF)](https://www.fraserinstitute.org/sites/default/files/2025-09/economic-freedom-of-the-world-2025-annual-report_1.pdf). More maps and tools at [efotw.org](https://www.efotw.org/).
