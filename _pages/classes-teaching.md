@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 _styles: |
   .classes-teaching .post-title {
-    text-transform: lowercase;
     font-weight: 600;
     letter-spacing: -0.02em;
     color: var(--global-theme-color);
@@ -20,7 +19,6 @@ _styles: |
     margin-top: 0.35rem;
   }
   .classes-teaching article h2 {
-    text-transform: lowercase;
     font-size: 1.2rem;
     font-weight: 600;
     margin-top: 2.75rem;
@@ -58,24 +56,24 @@ _styles: |
   }
 ---
 
-## teaching:
+## Teaching:
 
-<span class="ct-course-title">math 2321 (spring 2026) : calculus 3 for science and engineering by matthew webber</span>
+<span class="ct-course-title">MATH 2321: Calculus 3 for Science and Engineering for Matthew Webber</span>
 
 <p class="ct-course-desc">Teaching assistant for Calculus 3—recitations, grading, and office hours. I help students work through multivariable calculus and vector material and get comfortable with the pace of an engineering calculus sequence.</p>
 
-## coursework:
+## Coursework:
 
-<p class="ct-line">econ 1116 (fall 2025) : principles of microeconomics</p>
+<p class="ct-line">ECON 1116: Principles of Microeconomics</p>
 
-<p class="ct-line">econ 2315 (fall 2025) : macroeconomic theory</p>
+<p class="ct-line">ECON 2315: Macroeconomic Theory</p>
 
-<p class="ct-line">math 2321 (fall 2025) : calculus 3 for science and engineering</p>
+<p class="ct-line">MATH 2321: Calculus 3 for Science and Engineering</p>
 
-<p class="ct-line">math 2331 (fall 2025) : linear algebra</p>
+<p class="ct-line">MATH 2331: Linear Algebra</p>
 
-<p class="ct-line">econ 2316 (spring 2026) : microeconomic theory</p>
+<p class="ct-line">ECON 2316: Microeconomic Theory</p>
 
-<p class="ct-line">math 2341 (spring 2026) : differential equations and linear algebra for engineering</p>
+<p class="ct-line">MATH 2341: Differential Equations and Linear Algebra for Engineering</p>
 
-<p class="ct-line">math 3081 (spring 2026) : probability and statistics</p>
+<p class="ct-line">MATH 3081: Probability and Statistics</p>
